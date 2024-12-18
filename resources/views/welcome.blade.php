@@ -25,6 +25,7 @@
     <!-- Hero Section -->
     <section class="bg-blue-700 text-white text-center py-16">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between">
+        
         <!-- Left Side - Title and Text -->
         <div class="text-center md:text-left md:w-1/2">
             <h1 class="text-4xl font-bold">Welcome to the Student Management System</h1>
@@ -78,7 +79,7 @@
     <section class="bg-blue-500 py-16">
         <div class="max-w-7xl mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold mb-4">About Us</h2>
-            <p class="text-lg text-white">Our Student Management System is designed to simplify academic record-keeping and enhance student administration. Join hundreds of schools and universities that trust our platform.</p>
+            <p class="text-lg text-black">Our Student Management System is designed to simplify academic record-keeping and enhance student administration. Join hundreds of schools and universities that trust our platform.</p>
         </div>
     </section>
 

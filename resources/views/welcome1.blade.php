@@ -26,6 +26,7 @@
     <!-- Hero Section -->
     <section class="bg-blue-700 text-white text-center py-16">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between">
+        
         <!-- Left Side - Title and Text -->
         <div class="text-center md:text-left md:w-1/2">
             <h1 class="text-4xl font-bold">Welcome to the Student Management System</h1>
@@ -35,6 +36,7 @@
 
         <!-- Right Side - Image Collage -->
         <div class="grid grid-cols-3 gap-4 mt-8 md:mt-0 md:w-1/2">
+
             <!-- First Row - 3 Columns -->
             <div class="flex justify-center">
                 <img src="{{ asset('images/university-building-1.jpg') }}" alt="Image 1" class="w-48 h-48 object-cover rounded-lg shadow-lg">
@@ -45,6 +47,7 @@
             <div class="flex justify-center">
                 <img src="{{ asset('images/pexels-rdne-6936013.jpg') }}" alt="Image 3" class="w-48 h-48 object-cover rounded-lg shadow-lg">
             </div>
+
             <!-- Second Row - 2 Columns -->
             <div class="flex justify-center">
                 <img src="{{ asset('images/pexels-max-fischer-5212683.jpg') }}" alt="Image 4" class="w-64 h-64 object-cover rounded-lg shadow-lg">
@@ -76,14 +79,16 @@
     </section>
 
     <!-- About Us Section -->
-    <section class="bg-blue-500 py-16">
+
+    <section class="bg-blue-300 py-16">
         <div class="max-w-7xl mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold mb-4">About Us</h2>
-            <p class="text-lg text-white">Our Student Management System is designed to simplify academic record-keeping and enhance student administration. Join hundreds of schools and universities that trust our platform.</p>
+            <p class="text-lg text-black">Our Student Management System is designed to simplify academic record-keeping and enhance student administration. Join hundreds of schools and universities that trust our platform.</p>
         </div>
     </section>
 
     <!-- Testimonial Section -->
+
     <section class="bg-gray-100 py-16">
         <div class="max-w-7xl mx-auto px-6">
             <h2 class="text-3xl font-bold text-center mb-8">What Our Users Say</h2>
@@ -105,6 +110,7 @@
     </section>
 
     <!-- Call to Action Section -->
+
     <section class="bg-blue-700 text-white py-16">
         <div class="max-w-7xl mx-auto text-center">
             <h2 class="text-3xl font-bold mb-4">Ready to Get Started?</h2>
@@ -114,6 +120,7 @@
     </section>
 
     <!-- FAQ Section -->
+
     <section class="bg-white py-16">
         <div class="max-w-7xl mx-auto px-6">
             <h2 class="text-3xl font-bold text-center mb-8">Frequently Asked Questions</h2>
@@ -135,6 +142,7 @@
     </section>
 
     <!-- Footer -->
+
     <footer class="bg-gray-800 text-white py-6">
         <div class="max-w-7xl mx-auto text-center">
             <p>&copy; 2024 Student Management System. All rights reserved.</p>
