@@ -35,6 +35,7 @@
 
         <!-- Right Side - Image Collage -->
         <div class="grid grid-cols-3 gap-4 mt-8 md:mt-0 md:w-1/2">
+            
             <!-- First Row - 3 Columns -->
             <div class="flex justify-center">
                 <img src="{{ asset('images/university-building-1.jpg') }}" alt="Image 1" class="w-48 h-48 object-cover rounded-lg shadow-lg">

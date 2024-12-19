@@ -16,7 +16,7 @@
 
     </style>
 </head>
-<body class="bg-blue-100">
+<body class="bg-gray-300">
 
     <div class="flex h-screen">
         

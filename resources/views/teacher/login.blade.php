@@ -6,6 +6,7 @@
     <title>Teacher Login</title>
     @vite('resources/css/app.css')
 </head>
+
 <body class="bg-gradient-to-br from-blue-500 to-purple-300 flex items-center justify-center h-screen">
 
     <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
@@ -41,7 +42,7 @@
         </form>
 
         <p class="text-center mt-4 text-gray-600">Don't have an account? 
-            <a href="{{ route('teacher.signup') }}" class="text-blue-200 hover:underline">Sign up</a>
+            <a href="{{ route('teacher.signup') }}" class="text-blue-500 hover:underline">Sign up</a>
         </p>
     </div>
 
